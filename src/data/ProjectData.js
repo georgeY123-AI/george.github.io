@@ -7,7 +7,7 @@ export const ProjectList = [
       "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
     tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
     github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    demo_url: "",
   },
   {
     img: "/renr-responsive.png",
@@ -16,7 +16,7 @@ export const ProjectList = [
       "A safety application for the Renewable Resources Dept. of BCIT",
     tech_stack: ["React", "Firebase"],
     github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+    demo_url: "",
   },
   {
     img: "/mymind-responsive.png",
@@ -25,7 +25,7 @@ export const ProjectList = [
       "An app where users can purchase online therapy sessions and chat with their therapists.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
     github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+    demo_url: "",
   },
   {
     img: "/pokedex-responsive.png",
