@@ -24,7 +24,7 @@ export const ProjectList = [
     description:
       "An app where users can purchase online therapy sessions and chat with their therapists.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
+    github_url: "",
     demo_url: "",
   },
   {
@@ -33,8 +33,8 @@ export const ProjectList = [
     description:
       "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+    github_url: "",
+    demo_url: "",
   },
   {
     img: "/jobDetect.png",
@@ -42,8 +42,8 @@ export const ProjectList = [
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+    github_url: "",
+    demo_url: "",
   },
 ];
 
@@ -51,12 +51,12 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
-    name: "HTML",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    name: "Python",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
-    name: "CSS",
+    img: "https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg",
+    name: "HTML",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
