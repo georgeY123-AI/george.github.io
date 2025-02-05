@@ -23,7 +23,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>George youssef</strong>. I am an AI and deep learning enthusiast with a strong foundation in machine learning, cybersecurity, and software development. Through various projects and research, I have developed critical thinking, problem-solving, and adaptability skills. I am also passionate about sharing knowledge and collaborating with others in the AI field.
+            Hello! My name is <strong>George youssef.</strong>. I am an AI and deep learning enthusiast with a strong foundation in machine learning, cybersecurity, and software development. Through various projects and research, I have developed critical thinking, problem-solving, and adaptability skills. I am also passionate about sharing knowledge and collaborating with others in the AI field.
             </ScrollAnimation>
 
             <br /><br />
