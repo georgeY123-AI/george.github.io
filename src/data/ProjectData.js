@@ -6,8 +6,7 @@ export const ProjectList = [
     description:
       "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
     tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    github_url: ""
   },
   {
     img: "/renr-responsive.png",
@@ -15,8 +14,7 @@ export const ProjectList = [
     description:
       "A safety application for the Renewable Resources Dept. of BCIT",
     tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+    github_url: "" //renr-bcit.web.app/",
   },
   {
     img: "/mymind-responsive.png",
@@ -24,8 +22,7 @@ export const ProjectList = [
     description:
       "An app where users can purchase online therapy sessions and chat with their therapists.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+    github_url: ""
   },
   {
     img: "/pokedex-responsive.png",
@@ -33,8 +30,7 @@ export const ProjectList = [
     description:
       "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+    github_url: " "
   },
   {
     img: "/jobDetect.png",
@@ -42,8 +38,7 @@ export const ProjectList = [
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+    github_url: ""
   },
 ];
 
@@ -125,10 +120,6 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
     name: "Figma",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
