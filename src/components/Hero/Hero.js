@@ -44,7 +44,7 @@ function Hero() {
                   cursor={true}
                   sequence={[
                     500,
-                    'A GAN-AI Developer.',
+                    'A GEN-AI Developer.',
                     1000,
                     'A HTI graduate.',
                     // 'I design and code beautifully simple things, and I love what I do.',
